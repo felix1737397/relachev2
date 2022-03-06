@@ -1,0 +1,4 @@
+﻿  Equipement.cpp
+C:\Users\Micha\Desktop\projetPasCasse\projetRelacheV2\projetRelacheV2\Equipement.cpp(44): warning C4715: 'Equipement::setQualite' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Micha\Desktop\projetPasCasse\projetRelacheV2\projetRelacheV2\Equipement.cpp(60): warning C4715: 'Equipement::setPrix' : les chemins de contrôle ne retournent pas tous une valeur
+  projetRelacheV2.vcxproj -> C:\Users\Micha\Desktop\projetPasCasse\projetRelacheV2\x64\Debug\projetRelacheV2.exe
